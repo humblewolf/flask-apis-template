@@ -1,0 +1,6 @@
+ShopifyAPI==12.2.0
+pymongo==4.3.3
+Flask==2.2.2
+Flask-RESTful==0.3.9
+webargs==5.5.2
+jsons==1.6.3

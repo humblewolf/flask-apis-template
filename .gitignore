@@ -1,0 +1,6 @@
+venv
+app.log
+.idea
+periodic_tasks.log
+.DS_store
+*/.DS_store
